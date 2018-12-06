@@ -1,0 +1,30 @@
+{
+  "name": "npmtest",
+  "version": "0.1.0",
+  "description": "npm tests\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Np\u001b[C build and tests",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulDuncan2000/test-npm.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "make",
+    "build"
+  ],
+  "author": "Paul Duncan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulDuncan2000/test-npm/issues"
+  },
+  "homepage": "https://github.com/PaulDuncan2000/test-npm#readme"
+}
